@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "nr1-synthetics-map-launcher",
+    "description": "Describe me",
+    "displayName": "Geo Synthetics",
+    "rootNerdletId": "nr1-synthetics-map-nerdlet"
+}
