@@ -3,6 +3,7 @@
 ## Getting started
 
 You need to register an account (for free) on the Mapbox website: https://mapbox.com
+
 Then you can create your own token and change the code in the index.js file accordingly
 
 ```
