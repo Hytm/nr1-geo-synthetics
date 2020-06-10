@@ -11,14 +11,6 @@ const MAPBOX_TOKEN = "{YOUR_MAPBOX_TOKEN}"
 
 ```
 
-
-Run the following scripts:
-
-```
-npm install
-npm start
-```
-
 ## Description
 The nerdlet is organized like this:
 
