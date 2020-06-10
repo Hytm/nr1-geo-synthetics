@@ -29,10 +29,10 @@ The nerdlet is organized like this:
 Hereafter, some screenshots for this nerdlet.
 
 ![landing page](https://lh3.googleusercontent.com/PbyzXRXwPn4bTTR7G62jTiiuFL1Jqm1tuRb7CQ1Jkm1407yJuzMtKkhbm0Tvgh8UzKrrl_DZWajLxSao_g=s1600)
-*Landing page
+* Landing page
 
 ![Selecting a pin](https://lh3.googleusercontent.com/bek4h7C0SLp9NBy886KTAq1ArDQMSBBVLlNPs6Ym8QQ1Pai3qNd7PhX2zYg7YvGEQm4xEFS3zPpgaaCloAi4=s1600)
-*Selecting a pin
+* Selecting a pin
 
 ![Details for a specific monitor](https://lh3.googleusercontent.com/OUt2JaRomSzBQVAwDYDhcpkJGclTCOR4VStzTfpJx1vmZSMG03n66j6NSxY6VaNV1pl9bGvEyWUVyP15fyY=s1600)
-*Details for a specific monitor
+* Details for a specific monitor
