@@ -22,11 +22,17 @@ npm start
 ## Description
 The nerdlet is organized like this:
 
-⋅⋅*First, you have a headline with basic metrics like SLA and Checks done. Then the map, with gradient colors based on SLA.
-⋅⋅*Clicking on a pin will open a side-panel with SLA and Checks done per monitor to let you explore if this is a geo-specific issue or if the SLA is impacted by only one monitor.
-⋅⋅*Finally, clicking on a monitor name will let you open a panel for this specific monitor, thanks to the recent availability of Synthetics in NR1.
+*First, you have a headline with basic metrics like SLA and Checks done. Then the map, with gradient colors based on SLA.
+*Clicking on a pin will open a side-panel with SLA and Checks done per monitor to let you explore if this is a geo-specific issue or if the SLA is impacted by only one monitor.
+*Finally, clicking on a monitor name will let you open a panel for this specific monitor, thanks to the recent availability of Synthetics in NR1.
 
 Hereafter, some screenshots for this nerdlet.
 
-![landing screen](https://lh3.googleusercontent.com/PbyzXRXwPn4bTTR7G62jTiiuFL1Jqm1tuRb7CQ1Jkm1407yJuzMtKkhbm0Tvgh8UzKrrl_DZWajLxSao_g=s1600)
+![landing page](https://lh3.googleusercontent.com/PbyzXRXwPn4bTTR7G62jTiiuFL1Jqm1tuRb7CQ1Jkm1407yJuzMtKkhbm0Tvgh8UzKrrl_DZWajLxSao_g=s1600)
+*Landing page
 
+![Selecting a pin](https://lh3.googleusercontent.com/bek4h7C0SLp9NBy886KTAq1ArDQMSBBVLlNPs6Ym8QQ1Pai3qNd7PhX2zYg7YvGEQm4xEFS3zPpgaaCloAi4=s1600)
+*Selecting a pin
+
+![Details for a specific monitor](https://lh3.googleusercontent.com/OUt2JaRomSzBQVAwDYDhcpkJGclTCOR4VStzTfpJx1vmZSMG03n66j6NSxY6VaNV1pl9bGvEyWUVyP15fyY=s1600)
+*Details for a specific monitor
