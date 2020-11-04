@@ -1,5 +1,9 @@
 # nr1-geo-synthetics
 
+## Description
+
+This repo contains a New Relic One application, which lets you see availability based on locations and not per monitors.
+
 ## Getting started
 
 You need to register an account (for free) on the Mapbox website: https://mapbox.com
